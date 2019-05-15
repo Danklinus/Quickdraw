@@ -10,6 +10,8 @@ TagManager:
   - Shot4
   - Shot5
   - Shot6
+  - bob
+  - bob2
   layers:
   - Default
   - TransparentFX
